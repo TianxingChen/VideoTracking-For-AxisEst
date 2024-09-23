@@ -2,7 +2,7 @@
 
 [Xi Wang](https://hytidel.github.io/)\*, [Tianxing Chen](https://tianxingchen.github.io/)\*, Qiaojun Yu, Zanxin Chen, Tianling Xu, Yiting Fu, [Cewu Lu](https://www.mvig.org/)†, [Yao Mu](https://yaomarkmu.github.io/)†, [Ping Luo](http://luoping.me/)†
 
-[Project Page]([https://tianxingchen.github.io/video-tracking-for-axis-estimation/](https://tianxingchen.github.io/video-tracking-for-axis-estimation/)) | [Paper](?) |[arXiv](?) | [Video](https://www.bilibili.com/video/BV1dysSepEMD) | [Code](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
+[Project Page](https://tianxingchen.github.io/video-tracking-for-axis-estimation/) | [Paper](?) |[arXiv](?) | [Video](https://www.bilibili.com/video/BV1dysSepEMD) | [Code](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 
 
 # Overview
