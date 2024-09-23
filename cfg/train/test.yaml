@@ -1,0 +1,11 @@
+log_dir: "./logs"
+save_dir: "./saves"
+name: "test"
+
+total_round: 1
+
+train_manipulation: False
+train_controller: False
+
+skip_no_mask: True
+save_video: True

@@ -1,0 +1,12 @@
+name: open_drawer
+
+closed_loop: True
+
+step_sizes:
+  - 0.10
+  - 0.12
+  - 0.13
+  - 0.16
+
+axis_prediction: True
+once_SAM2: False

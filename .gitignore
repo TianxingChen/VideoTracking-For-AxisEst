@@ -1,0 +1,26 @@
+# routine
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*.pyc
+*.vscode/
+*.ipynb_checkpoints
+*.mp4
+*.venv
+*.egg*
+
+# tmp files
+logs/
+outputs/
+saves/
+tmp/
+tmp.zip
+
+# examples
+utils/submodules/SAM2/notebooks/
+
+# ckpt & dataset
+downloads/
+utils/submodules/GroundingDINO/weights/
+utils/submodules/SAM2/checkpoints/
+!utils/submodules/SAM2/checkpoints/download_ckpts.sh

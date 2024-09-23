@@ -1,0 +1,5 @@
+# ninja log v5
+1	1185	1726385950	/data/wangxi/ManiArticulation/utils/submodules/GroundingDINO/build/temp.linux-x86_64-cpython-310/data/wangxi/ManiArticulation/utils/submodules/GroundingDINO/groundingdino/models/GroundingDINO/csrc/cuda_version.o	46a68831481b496d
+0	6594	1726385956	/data/wangxi/ManiArticulation/utils/submodules/GroundingDINO/build/temp.linux-x86_64-cpython-310/data/wangxi/ManiArticulation/utils/submodules/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cpu.o	3e8ff21de7f4bd1a
+1	22127	1726385971	/data/wangxi/ManiArticulation/utils/submodules/GroundingDINO/build/temp.linux-x86_64-cpython-310/data/wangxi/ManiArticulation/utils/submodules/GroundingDINO/groundingdino/models/GroundingDINO/csrc/vision.o	3cc8a202c696966b
+1	23407	1726385973	/data/wangxi/ManiArticulation/utils/submodules/GroundingDINO/build/temp.linux-x86_64-cpython-310/data/wangxi/ManiArticulation/utils/submodules/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cuda.o	7a689be9321b1257

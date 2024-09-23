@@ -1,0 +1,14 @@
+name: open_cabinet
+
+closed_loop: True
+
+step_sizes:
+  - 0.15
+  - 0.07
+  - 0.09
+  - 0.11
+  - 0.12
+  - 0.13
+
+axis_prediction: True
+once_SAM2: False
