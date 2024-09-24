@@ -254,12 +254,7 @@ Our code is built upon [RGBManip](https://github.com/hyperplane-lab/RGBManip), [
 If you find our work helpful, please consider citing: 
 
 ```
-@article{wang2024articulatedobjectmanipulationusingonlineaxisestimationwithsam2basedtracking,
-      title={Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking}, 
-      author={Xi Wang and Tianxing Chen and Qiaojun Yu and Zanxin Chen and Tianling Xu and Yiting Fu and Cewu Lu and Yao Mu and Ping Luo},
-      journal={?},
-      year={2024}
-}
+Coming Soon
 ```
 
 # 🏷️ License
