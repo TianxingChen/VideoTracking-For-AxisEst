@@ -2,7 +2,9 @@
 
 [Xi Wang](https://hytidel.github.io/)\*, [Tianxing Chen](https://tianxingchen.github.io/)\*, Qiaojun Yu\*, Tianling Xu, Zanxin Chen, Yiting Fu, Cewu Lu†, [Yao Mu](https://yaomarkmu.github.io/)†, [Ping Luo](http://luoping.me/)†
 
-[Project Page](https://hytidel.github.io/video-tracking-for-axis-estimation/) | [Paper](?) | [arXiv](?) | [Video](https://www.bilibili.com/video/BV1dysSepEMD) | [Code](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
+[Project Page](https://hytidel.github.io/video-tracking-for-axis-estimation/) | [Paper](https://arxiv.org/pdf/2409.16287) | [arXiv](https://arxiv.org/abs/2409.16287) | [Video](https://www.bilibili.com/video/BV1dysSepEMD) | [Code](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTianxingChen%2FVideoTracking-For-AxisEst&count_bg=%233DC876&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 # Overview
@@ -254,7 +256,15 @@ Our code is built upon [RGBManip](https://github.com/hyperplane-lab/RGBManip), [
 If you find our work helpful, please consider citing: 
 
 ```
-Coming Soon
+@misc{wang2024articulatedobjectmanipulationusing,
+      title={Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking}, 
+      author={Xi Wang and Tianxing Chen and Qiaojun Yu and Tianling Xu and Zanxin Chen and Yiting Fu and Cewu Lu and Yao Mu and Ping Luo},
+      year={2024},
+      eprint={2409.16287},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2409.16287}, 
+}
 ```
 
 # 🏷️ License
