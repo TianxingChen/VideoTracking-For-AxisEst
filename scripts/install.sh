@@ -19,7 +19,7 @@ unzip downloads/dataset/dataset.zip -d downloads/dataset
 
 # ---------= Grounding DINO =---------
 mkdir utils/submodules/GroundingDINO/weights
-wget -q https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth utils/submodules/GroundingDINO/weights/groundingdino_swint_ogc.pth
+wget -q https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth -O utils/submodules/GroundingDINO/weights/groundingdino_swint_ogc.pth
 
 # ---------= SAM2 =---------
 cd utils/submodules/SAM2/checkpoints
