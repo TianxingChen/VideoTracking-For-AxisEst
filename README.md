@@ -4,7 +4,7 @@
 
 [Project Page](https://hytidel.github.io/video-tracking-for-axis-estimation/) | [Paper](https://arxiv.org/pdf/2409.16287) | [arXiv](https://arxiv.org/abs/2409.16287) | [Video](https://www.bilibili.com/video/BV1dysSepEMD) | [Code](https://github.com/TianxingChen/VideoTracking-For-AxisEst)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTianxingChen%2FVideoTracking-For-AxisEst&count_bg=%233DC876&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FTianxingChen%2FVideoTracking-For-AxisEst&label=HITS&countColor=%23ff9a9a&style=plastic&labelStyle=none)
 
 
 # Overview
